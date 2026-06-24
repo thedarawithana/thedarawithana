@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedarawithana" alt="thedarawithana" /></a> </p>
 
-- 🔭 I’m currently working on **SLIIT university**
+- 🔭 I’m currently studying at **SLIIT university**
 
 - 📫 How to reach me **thedarawithana2005@gmail.com**
 
