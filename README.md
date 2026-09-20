@@ -14,7 +14,7 @@
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🐍 Currently developing my skills in **Python**
 - ☕ Building a strong foundation in **Java & Object-Oriented Programming**
-- 🧠 Interested in **AI, Machine Learning, Data Science, Networking & Cybersecurity**
+- 🧠 Interested in **AI, Machine Learning, Data Science**
 - 🚀 Building academic and personal projects to strengthen my practical skills
 - 📚 Always learning and exploring new technologies
 
@@ -23,7 +23,7 @@
 ## 🌐 Portfolio
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://thedarawithana.github.io/portfolio/">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0e75b6?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
